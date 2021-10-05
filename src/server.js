@@ -12,3 +12,5 @@ app.get('/', (req, res) => {
 app.listen(3333, () => {
     console.log('o servidor está rodando normalmente ...')
 })
+
+// Deus me ajude !!!!
